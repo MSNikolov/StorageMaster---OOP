@@ -1,0 +1,2 @@
+# StorageMaster---OOP
+A simple project I created as a practice for the SoftUni C# OOP Exam. The description for the problem could be found here: https://judge.softuni.bg/Contests/Practice/DownloadResource/3119 I used some reflection in the Storage class, the SendVehicleTo method in particular, because I didn't know I was allowed to create and additional method (not included in the description) - it turned out I was. Everything works fine though, as I managed to score the maximum points for this project in the judge system. Unit tests are included.
